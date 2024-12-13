@@ -1,0 +1,5 @@
+__notebooks/
+__pycache__/
+.config
+readme.txt
+.Identifier

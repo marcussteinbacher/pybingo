@@ -1,0 +1,30 @@
+h1 {
+    margin-bottom: 2px;
+    margin-top: 12px;
+    text-align: center;
+    page-break-after: avoid;
+}
+
+.dataframe {
+    border-collapse: collapse;
+    border-color: black;
+    margin: auto;
+    page-break-inside: avoid;
+}
+
+td { 
+	border-spacing: 0;
+	height: 90px;
+	width: 90px;
+	margin: 0; 
+    padding: 2px;
+    text-align: center;
+}
+
+.container {
+    display:grid;
+    grid-template-columns: auto auto;
+    column-gap: 12px;
+    row-gap: 12px;
+    justify-content: center;
+}
