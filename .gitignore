@@ -4,3 +4,4 @@ __pycache__/
 readme.txt
 .Identifier
 test.py
+.cache
