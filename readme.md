@@ -1,10 +1,10 @@
 # Pybingo
 *Create randomized bingo cards from your spotify playlist*
 
-![Single Card](assets/card.png)
+<img src="assets/card.png" width=300>
 
 ## What 
-Create a html with a specified number of music bingo cards from a public spotify playlist to easily print and play on paper.
+Create an `.html`-file with a specified number of music bingo cards from a public Spotify playlist to easily print and play on paper.
 
 ## Setup
 
